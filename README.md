@@ -1,2 +1,2 @@
-# Enterprise-Development-Guidelines
+# Enterprise Development Guidelines
 Guideline for developing Enterprise Applications
