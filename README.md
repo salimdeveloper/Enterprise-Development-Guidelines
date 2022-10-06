@@ -1,2 +1,2 @@
 # Enterprise Development Guidelines
-Guideline for developing Enterprise Applications :office:
+Guideline for developing Enterprise Applications :factory:
